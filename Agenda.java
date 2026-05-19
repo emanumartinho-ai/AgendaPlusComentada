@@ -18,7 +18,7 @@ public class Agenda {
         // new ArrayList<>() cria uma lista vazia.
         // O diamante "<>" permite ao Java inferir que e uma lista de Contacto.
         contactos = new ArrayList<>();
-    }P
+    }
 
     // Metodo publico para adicionar um contacto.
     // Devolve boolean: true se adicionou, false se nao adicionou.
