@@ -1,0 +1,8 @@
+Ana Silva;912345678;ana.silva@email.com;Familia;true
+Bruno Costa;923456789;bruno.costa@email.com;Amigo;false
+Carla Mendes;934567890;carla.mendes@empresa.pt;Trabalho;true
+Diogo Ferreira;945678901;diogo.ferreira@email.com;Amigo;false
+Eva Martins;956789012;eva.martins@email.com;Familia;false
+Francisco Rocha;967890123;francisco.rocha@empresa.pt;Trabalho;true
+Ines Almeida;978901234;ines.almeida@email.com;Outro;false
+Joao Pereira;989012345;joao.pereira@email.com;Amigo;true
